@@ -5,5 +5,6 @@
 | リンク | 飛ばし先 |
 |---|---|
 | /go/vates/ | https://vates.co.jp/ |
+| /go/ryokan/ | https://youtu.be/z_QPdi7FLwY（旅館経営チャンネルムービー） |
 
 追加するときは `<名前>/index.html` を vates をコピーして作り、URLを3か所書き換えて push する。
